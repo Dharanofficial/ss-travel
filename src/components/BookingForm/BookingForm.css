@@ -1,0 +1,4 @@
+.bform{display:grid;grid-template-columns:1fr 1fr;gap:16px;animation:step .4s}.bform h2,.wide{grid-column:1/-1}.err{color:#b3261e;font-size:.8rem}
+.chk{display:flex;align-items:center;gap:10px;padding:12px;background:#fff;border-radius:12px;margin-bottom:8px;border:1px solid #e0e7ef;min-height:48px}.chk em{margin-left:auto;color:#5b6b80}
+fieldset{border:0;padding:0;margin:0}.sr{position:absolute;left:-9999px}.note{color:#5b6b80;font-size:.85rem}
+@keyframes step{from{opacity:0;transform:translateX(24px)}}@media(max-width:640px){.bform{grid-template-columns:1fr}}

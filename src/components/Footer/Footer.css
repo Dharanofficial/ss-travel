@@ -1,0 +1,2 @@
+.foot{background:var(--navy);color:#cfe0f2;padding:48px 0}.foot h3{color:#fff}.fgrid{display:grid;gap:24px;grid-template-columns:2fr 1fr 1fr}.foot nav{display:grid;gap:6px}.foot a{color:#cfe0f2}
+@media(max-width:700px){.fgrid{grid-template-columns:1fr}}

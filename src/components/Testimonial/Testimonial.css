@@ -1,0 +1,4 @@
+.testi{text-align:center;max-width:720px;margin:0 auto}.testi figure{margin:0;animation:slide .5s}.testi img{width:72px;height:72px;border-radius:50%;margin:0 auto 14px}
+blockquote{font:600 1.5rem/1.4 Fraunces,serif;color:var(--navy);margin:0 0 10px}.dots{display:flex;justify-content:center;gap:8px;margin-top:16px}
+.dots button{width:12px;height:12px;border-radius:50%;border:0;background:#c3cfdd;cursor:pointer;padding:0}.dots button[aria-current=true]{background:var(--sky)}
+@keyframes slide{from{opacity:0;transform:translateX(30px)}}
